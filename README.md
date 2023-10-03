@@ -16,9 +16,10 @@
 I'm a passionate Data Analyst with a knack for turning data into actionable insights. Here's a quick snapshot of my skills and background:
 
 📊 **Skills**: Data Analysis, Data Visualization, Python, SQL, Excel, Tableau, Power BI  
+
 🎓 **Education**: 
 - Bachelor's in Business Accounting from [University of Economics HCMC](https://www.ueh.edu.vn/) 
-- Master's in Data Science from [University Of Science, VNU HCMC](https://sdh.hcmus.edu.vn/) (in progress)
+- Master's in Data Science from [University of Science, VNU-HCMC](https://sdh.hcmus.edu.vn/) (in progress)
 
 ### Let's Connect!
 📫 Feel free to reach out to me via [Email](mailto:thanhhai.ueh123@gmail.com)  
