@@ -18,7 +18,7 @@ I'm a passionate Data Analyst with a knack for turning data into actionable insi
 
 🎓 **Education**: 
 - Bachelor's in Business Accounting from [University of Economics HCMC (UEH)](https://www.ueh.edu.vn/) 
-- Master's in Data Science from [University of Science, VNU-HCMC](https://sdh.hcmus.edu.vn/) (in progress)
+- Master's in Data Science from [University of Science, VNU-HCMC](https://sdh.hcmus.edu.vn/) **(in progress)**
 
 ### Let's Connect!
 📫 Feel free to reach out to me via [Email](mailto:thanhhai.ueh123@gmail.com)  
