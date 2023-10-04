@@ -22,7 +22,8 @@ I am currently seeking a Data Analyst position suitable for a fresher/junior wit
 
 ### Let's Connect!
 📫 Feel free to reach out to me via [Email](mailto:thanhhai.ueh123@gmail.com)  
-📁 View my data analysis projects on [My portfolio](https://github.com/tranthithanhhai/My-portfolio) 
+📁 View my data analysis projects on [My portfolio](https://github.com/tranthithanhhai/My-portfolio)
+
 🌐 Explore more about me on [My blog](https://tranthithanhhai.github.io/)
 
 [![Instagram Badge](https://img.shields.io/badge/-ttt_hai-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ttt_hai?utm_source=qr&igshid=MThlNWY1MzQwNA==)](https://instagram.com/ttt_hai?utm_source=qr&igshid=MThlNWY1MzQwNA==)
