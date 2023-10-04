@@ -11,7 +11,6 @@
 [![Google Data Studio Badge](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=google-datastudio&logoColor=white)](https://marketingplatform.google.com/about/data-studio/)
 [![Excel Badge](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Scrapy Badge](https://img.shields.io/badge/Scrapy-393939?style=flat-square&logo=scrapy&logoColor=white)](https://scrapy.org/)
 
 I'm a passionate Data Analyst with a knack for turning data into actionable insights. Here's a quick snapshot of my skills and background:
 
