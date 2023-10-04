@@ -18,7 +18,7 @@ I'm a passionate Data Analyst with a knack for turning data into actionable insi
 📊 **Skills**: Data Analysis, Data Visualization, Python, SQL, Excel, Tableau, Power BI  
 
 🎓 **Education**: 
-- Bachelor's in Business Accounting from [University of Economics HCMC](https://www.ueh.edu.vn/) 
+- Bachelor's in Business Accounting from [University of Economics HCMC (UEH)](https://www.ueh.edu.vn/) 
 - Master's in Data Science from [University of Science, VNU-HCMC](https://sdh.hcmus.edu.vn/) (in progress)
 
 ### Let's Connect!
