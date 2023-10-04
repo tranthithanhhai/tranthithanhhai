@@ -12,7 +12,7 @@
 [![Excel Badge](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
-I'm a passionate Data Analyst with a knack for turning data into actionable insights. Here's a quick snapshot of my skills and background:
+I am currently seeking a Data Analyst position suitable for a fresher/junior with a passion for turning data into actionable insights. Here's a quick snapshot of my skills and background:
 
 📊 **Skills**: Data Analysis, Data Visualization, Python, SQL, Excel, Tableau, Power BI  
 
