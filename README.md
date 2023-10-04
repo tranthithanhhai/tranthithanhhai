@@ -24,7 +24,7 @@ I am currently seeking a Data Analyst position suitable for a fresher/junior wit
 📫 Feel free to reach out to me via [Email](mailto:thanhhai.ueh123@gmail.com)  
 📁 View my data analysis projects on [My portfolio](https://github.com/tranthithanhhai/My-portfolio) 
 
-[![Instagram Badge](https://img.shields.io/badge/-haitran-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/emily__corner/)](https://www.instagram.com/emily__corner/)
+[![Instagram Badge](https://img.shields.io/badge/-ttt_hai-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ttt_hai?utm_source=qr&igshid=MThlNWY1MzQwNA==)](https://instagram.com/ttt_hai?utm_source=qr&igshid=MThlNWY1MzQwNA==)
 [![Youtube Badge](https://img.shields.io/badge/-haitran4695-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://https://www.youtube.com/@haitran4695)](https://www.youtube.com/@haitran4695)
 [![Gmail Badge](https://img.shields.io/badge/thanhhai.ueh123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thanhhai.ueh123@gmail.com)](mailto:thanhhai.ueh123@gmail.com)
 
