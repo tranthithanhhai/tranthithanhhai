@@ -19,7 +19,7 @@ I am currently seeking a Data Analyst position suitable for a fresher/junior wit
 
 🎓 **Education**: 
 - Bachelor's in Business Accounting from [University of Economics HCMC (UEH)](https://www.ueh.edu.vn/) 
-- Master's in Data Science from [University of Science, VNU-HCMC](https://sdh.hcmus.edu.vn/) **(2022 - Current)**
+- Master's in Data Science from [University of Science, VNU-HCMC](https://sdh.hcmus.edu.vn/) **(2023 - Current)**
 
 ### Let's Connect!
 - 📫 Feel free to reach out to me via [Email](mailto:thanhhai.ueh123@gmail.com)
